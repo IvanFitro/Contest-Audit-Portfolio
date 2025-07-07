@@ -9,7 +9,7 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 | Platform   | Total Issues Found |
 |------------|--------------------|
 | Code4rena  | 22                 |
-| Sherlock   | 16                 |
+| Sherlock   | 20                 |
 | CodeHawks  | 11                 |
 | Cantina    | 2                  |
 
@@ -103,6 +103,14 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 
 ### **Rova**
 - [Issue #39](https://github.com/sherlock-audit/2025-02-rova-judging/issues/39)
+
+### **DODO Cross-Chain DEX**
+- [Issue #760](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/760)
+- [Issue #110](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/110)
+- [Issue #836](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/836)
+- [Issue #149](https://github.com/sherlock-audit/2025-05-dodo-cross-chain-dex-judging/issues/149)
+
+
 
 ---
 
