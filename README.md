@@ -13,7 +13,7 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 | CodeHawks  | 11                 |
 | Cantina    | 2                  |
 
-> **Total Issues Across All Platforms: 51**
+> **Total Issues Across All Platforms: 55**
 
 
 ## 🛡️ Code4rena
