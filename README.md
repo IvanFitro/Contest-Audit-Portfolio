@@ -62,7 +62,7 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 - [Issue #161](https://code4rena.com/audits/2025-01-liquid-ron/submissions/S-161)
 
 ### **Silo Finance**
-- [Issue #57](https://code4rena.com/audits/2025-03-silo-finance/submissions/F-57)
+- [Issue #57](https://code4rena.com/audits/2025-03-silo-finance/submissions/F-57) ⭐
 
 ### **Virtuals Protocol**
 - [Issue #90](https://code4rena.com/audits/2025-04-virtuals-protocol/submissions/F-90) 👑
