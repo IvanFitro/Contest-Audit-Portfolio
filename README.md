@@ -11,9 +11,9 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 | Code4rena  | 24                 |
 | Sherlock   | 20                 |
 | CodeHawks  | 11                 |
-| Cantina    | 2                  |
+| Cantina    | 3                  |
 
-> **Total Issues Across All Platforms: 57**
+> **Total Issues Across All Platforms: 58**
 
 >  **Total Solo Issues Across All Platforms: 1**
 
@@ -152,3 +152,6 @@ A curated collection of confirmed vulnerabilities and findings I have submitted 
 ### **Coinbase - Spend Permissions**
 - [Issue #111](https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/111)
 - [Issue #243](https://cantina.xyz/code/6837e02a-0a87-4577-a047-4e1ea71cff01/findings/243)
+
+### **telcoin-network**
+- [Issue #399](https://cantina.xyz/code/26d5255b-6f68-46cf-be55-81dd565d9d16/findings/399)
